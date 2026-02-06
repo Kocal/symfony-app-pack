@@ -9,6 +9,18 @@
             "email": "hugo@alliau.me"
         }
     ],
+    "require": {
+        "deptrac/deptrac": "*",
+        "kocal/oxc-bundle": "*",
+        "kocal/phpstan-symfony-ux": "*",
+        "phpstan/phpstan": "*",
+        "phpstan/phpstan-doctrine": "*",
+        "phpstan/phpstan-symfony": "*",
+        "rector/rector": "*",
+        "symfony/web-profiler-bundle": "*",
+        "symplify/easy-coding-standard": "*",
+        "vincentlanglet/twig-cs-fixer": "*"
+    },
     "require-dev": {
         "deptrac/deptrac": "*",
         "kocal/oxc-bundle": "*",
