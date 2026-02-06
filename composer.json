@@ -1,0 +1,24 @@
+{
+    "name": "kocal/symfony-app-pack",
+    "description": "A opinionated Symfony pack to get your Symfony application started.",
+    "type": "symfony-pack",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hugo Alliaume",
+            "email": "hugo@alliau.me"
+        }
+    ],
+    "require-dev": {
+        "deptrac/deptrac": "*",
+        "kocal/oxc-bundle": "*",
+        "kocal/phpstan-symfony-ux": "*",
+        "phpstan/phpstan": "*",
+        "phpstan/phpstan-doctrine": "*",
+        "phpstan/phpstan-symfony": "*",
+        "rector/rector": "*",
+        "symfony/web-profiler-bundle": "*",
+        "symplify/easy-coding-standard": "*",
+        "vincentlanglet/twig-cs-fixer": "*"
+    }
+}
